@@ -49,5 +49,5 @@ I am currently a first-year master’s student at School of Computer, National U
 - National University of Defense Technology, Changsha (Sept 2025 – Present)<br>
 Master's Student at School of Computer.
 
-  - Xinjiang University, Urumqi (Sept 2021 – Jun 2025)<br>
-  Bachelor’s Student in computer science and technology.
+- Xinjiang University, Urumqi (Sept 2021 – Jun 2025)<br>
+Bachelor’s Student in computer science and technology.
