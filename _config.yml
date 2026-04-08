@@ -23,7 +23,7 @@ repository               : "sweetlove12/sweetlove12.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   name             : "Yuyi Wang"
   pronouns         : # example: "she/her"  
   bio              : "A master's student at National University of Defense Technology"
